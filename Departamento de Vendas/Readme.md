@@ -36,7 +36,7 @@
         <tr><td>COMPETIONDISTANCE</td><td>Distância do concorrente mais proximo</td></tr>
         <tr><td>COMPETIOTIONOPENSINCE (Month/Year)</td><td>Data que a loja concorrente foi aberta</td></tr>
         <tr><td>PROMO2</td><td>Promoção contínua e consecutiva em algumas lojas (0 = Não participa, 1 = Está participando)</td></tr>
-        <tr><td>PROMO2SINCE (Yaer/Week)</td>Data que a loja começou a participar da PROMO2<td></td></tr>
+        <tr><td>PROMO2SINCE (Yaer/Week)</td><td>Data que a loja começou a participar da PROMO2</td></tr>
         <tr><td>PROMOINTERVAL</td><td>Intervalos consecutivos que a PROMO2 é iniciada</td></tr>
       </table> 
     </td>
