@@ -12,7 +12,7 @@
 <p>Tabela das transações de vendas - Descriçãqo das Variáveis</p>
 <table>
   <tr>
-    <td>
+    
       <table>
         <tr><td>ID</td><td>Identificador da transação (Loja + Data)</td></tr>
         <tr><td>LOJA</td><td>Identificador único da loja</td></tr>
@@ -23,7 +23,7 @@
         <tr><td>SATATEHOLIDAY</td><td>Feriado (a = Feriado público, b = Pascoa; c = Natal; 0 = Nenhum)</td></tr>
         <tr><td>SCHOOLHOLIDAY</td><td>Feriado escolar</td></tr>
         
-    </td>
+    
   </tr>
 </table>
 
