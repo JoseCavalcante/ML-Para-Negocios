@@ -1,9 +1,9 @@
 <b>Estudo de Caso</b>
 <p>Departamento de Manutenção e Produção</p>
 
-Para este estudo de caso utilizaremos técnicas avançadas de DEEP LEARNING e REDES NEURAIS para fazermos a detecção de peças defeituosas e também vamos localizar ou segmentar os problemas nas peças
+<p>Para este estudo de caso utilizaremos técnicas avançadas de DEEP LEARNING e REDES NEURAIS para fazermos a detecção de peças defeituosas e também vamos localizar ou segmentar os problemas nas peças.</p>
 
-<img src="" alt="imagem>
+<img src="" alt="imagem/>
 
 Nós podemos visualizar este funcionário que está fazendo a análise de vários componentes.
 Temos uma IA (cérebro)
