@@ -1,4 +1,4 @@
-Estudo de Caso
+<b>Estudo de Caso</b>
 Departamento de Manutenção e Produção
 
 Para este estudo de caso utilizaremos técnicas avançadas de DEEP LEARNING e REDES NEURAIS para fazermos a detecção de peças defeituosas e também vamos localizar ou segmentar os problemas nas peças
@@ -34,7 +34,10 @@ O pixel 1 da imagem não tem defeito. O pixel numero 2 não tem defeito. O pixel
 Essa é a idéia de se segmentar imagens.
 A saida da segmentação de imagens produz uma nova imagem que é chamada de MASCARA DE IMAGEM que tem esse conceito MASK que é bem importante.
 Quando utilizamos Rede Neural Convolucional para classificação de imagens ele vai indicar se a peça tem defeito ou nao tem defeito.
-Quando estamos trabalhando com segmentação a Rede Neural vai retornar uma saida que que possui as mesmas dimensões da da imagem. Por exemplo, se a imagem original possui dimensões 800 X 600 a saida da Rede Neural também será uma imagem com as mesmas proporções
+Quando estamos trabalhando com segmentação a Rede Neural vai retornar uma saida que que possui as mesmas dimensões da da imagem. Por exemplo, se a imagem original possui dimensões 800 X 600 a saida da Rede Neural também será uma imagem com as mesmas proporções que é chamada de Mascara de Imagem e a diferença é que so teremos marcados os pixels que possuem defeitos na imagem.
+
+RUN LENGHT ENCODING (RLE)
+
 
 
 
