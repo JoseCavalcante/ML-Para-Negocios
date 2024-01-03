@@ -21,12 +21,12 @@ CLASSIFICAÇÃO e SEGMENTAÇÃO
 Conceitos
 
 <p>É necessário entender o formato que a SEGMENTAÇÃO das imagens é definido pois como nós temos 2 tarefas:</p>
-1 - Identificar se tem defeito 
-2 - A localização do defeito na imagem
-Nós precisamos ter uma representação um pouco diferente:
-MASK(Máscara)
-O objetivo da segmentação de imagem é entender a imagem pixel a pixel, sendo que cada pixel é associado a uma classe.
-Quando trabalhamos com as redes neurais convolucionais como por exemplo para fazer a classificação de doenças a resposta de Rede Neural será se a pessoa é doente ou não é doente. A imagem do Raio X apresenta uma doenção ou não apresenta uma doenca. É passada uma imagem inteira e se obtem uma resposta da rede neural.
+<p>1 - Identificar se tem defeito </p>
+<p>2 - A localização do defeito na imagem</p>
+<p>Nós precisamos ter uma representação um pouco diferente:</p>
+<p>MASK(Máscara)</p>
+<p>O objetivo da segmentação de imagem é entender a imagem pixel a pixel, sendo que cada pixel é associado a uma classe.</p>
+<p>Quando trabalhamos com as redes neurais convolucionais como por exemplo para fazer a classificação de doenças a resposta de Rede Neural será se a pessoa é doente ou não é doente. A imagem do Raio X apresenta uma doenção ou não apresenta uma doenca. É passada uma imagem inteira e se obtem uma resposta da rede neural.</p>
 Quando trabalhamos com segmentação de imagens vamos precisar ter uma classificação A, B, C
 Vamos supor que temos 4 tipos de defeitos: O defeito 1 é um problema na soldagem da peça e o defeito 2 poderia ser um vazamento de agua. Esses defeitos possuem caracteristicas diferentes na imagem. Portanto, para fazermos a segmentação ou encontrar esses defeitos na imagem nos precisamos analisar cada um dos pixels da imagem. Isso indica que temos um problema de classificação mai complexo pelo fato de que nós precisamos classificar cada pixel.
 Por exemplo:
