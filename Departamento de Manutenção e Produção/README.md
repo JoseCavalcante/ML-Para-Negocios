@@ -5,7 +5,7 @@
 
 <img src="" alt="imagem/>
 
-Nós podemos visualizar este funcionário que está fazendo a análise de vários componentes.
+<p>Nós podemos visualizar este funcionário que está fazendo a análise de vários componentes.</p>
 Temos uma IA (cérebro)
 E o objetivo é aplicar algoritmos inteligentes para poder detectar peças defeituosas.
 Este estudo de caso é considerado bem avançado pelo fato de ter que se criar 2 modelos:
