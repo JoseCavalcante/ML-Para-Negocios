@@ -6,15 +6,15 @@
 <img src="" alt="imagem/>
 
 <p>Nós podemos visualizar este funcionário que está fazendo a análise de vários componentes.</p>
-Temos uma IA (cérebro)
-E o objetivo é aplicar algoritmos inteligentes para poder detectar peças defeituosas.
-Este estudo de caso é considerado bem avançado pelo fato de ter que se criar 2 modelos:
-O 1o Modelo vai precisar fazer a identificação se uma imagem apresenta ou não um defeito.
-Se o defeito for dectado vai ser necessário vamos ter de aplicar outro modelo de DEEP LEARNIG para poder separar um defeito na imagem.
-Isso também pode usado naarea de medicina.
-A IA e ML estão transformando a industria, principalmente os departamento de produção e manutenção.
-De acordo com o relátorio do WORLD ECONOMIc FORUM, essas tecnologias terão grande impacto na INDUSTRIA 4.0: Departamento de Produção, Manutenção e de Suprimentos
-As técnicas de DEEP LEARNING tem provado serem eficientes para detecção e localização de defeitos em imagens. https://landing.ai/industries/medical-devices/
+<p>Temos uma IA (cérebro)</p>
+<p>E o objetivo é aplicar algoritmos inteligentes para poder detectar peças defeituosas.</p>
+<p>Este estudo de caso é considerado bem avançado pelo fato de ter que se criar 2 modelos:</p>
+<p>O 1o Modelo vai precisar fazer a identificação se uma imagem apresenta ou não um defeito.</p>
+<p>Se o defeito for dectado vai ser necessário vamos ter de aplicar outro modelo de DEEP LEARNIG para poder separar um defeito na imagem.</p>
+<p>Isso também pode usado naarea de medicina.</p>
+<p>A IA e ML estão transformando a industria, principalmente os departamento de produção e manutenção.</p>
+<p>De acordo com o relátorio do WORLD ECONOMIc FORUM, essas tecnologias terão grande impacto na INDUSTRIA 4.0: Departamento de Produção, Manutenção e de Suprimentos</p>
+<p>As técnicas de DEEP LEARNING tem provado serem eficientes para detecção e localização de defeitos em imagens. https://landing.ai/industries/medical-devices/</p>
 
 CLASSIFICAÇÃO e SEGMENTAÇÃO
 
