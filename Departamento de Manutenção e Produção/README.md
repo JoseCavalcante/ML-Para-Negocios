@@ -20,7 +20,7 @@ CLASSIFICAÇÃO e SEGMENTAÇÃO
 
 Conceitos
 
-É necessário entender o formato que a SEGMENTAÇÃO das imagens é definido pois como nós temos 2 tarefas:
+<p>É necessário entender o formato que a SEGMENTAÇÃO das imagens é definido pois como nós temos 2 tarefas:</p>
 1 - Identificar se tem defeito 
 2 - A localização do defeito na imagem
 Nós precisamos ter uma representação um pouco diferente:
