@@ -37,6 +37,7 @@ Essa é a idéia de se segmentar imagens.</p>
 <p>Quando estamos trabalhando com segmentação a Rede Neural vai retornar uma saida que que possui as mesmas dimensões da imagem. </p>
 <p>Por exemplo, se a imagem original possui dimensões 800 X 600 a saida da Rede Neural também será uma imagem com as mesmas proporções que é chamada de Mascara de Imagem e a diferença é que so teremos marcados os pixels que possuem defeitos na imagem.
 </p>
+<br>
 RUN LENGHT ENCODING (RLE)
 
 
