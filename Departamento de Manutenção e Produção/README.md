@@ -9,7 +9,7 @@
 <p>Temos uma IA (cérebro)</p>
 <p>E o objetivo é aplicar algoritmos inteligentes para poder detectar peças defeituosas.</p>
 <p>Este estudo de caso é considerado bem avançado pelo fato de ter que se criar 2 modelos:</p>
-<p>O 1o Modelo vai precisar fazer a identificação se uma imagem apresenta ou não um defeito.</p>
+<p>O 1o Modelo vai precisar fazer a <b>identificação</b> se uma imagem apresenta ou não um defeito.</p>
 <p>Se o defeito for dectado vai ser necessário vamos ter de aplicar outro modelo de DEEP LEARNIG para poder separar um defeito na imagem.</p>
 <p>Isso também pode usado naarea de medicina.</p>
 <p>A IA e ML estão transformando a industria, principalmente os departamento de produção e manutenção.</p>
