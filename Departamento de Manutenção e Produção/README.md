@@ -39,6 +39,12 @@ Essa é a idéia de se segmentar imagens.</p>
 </p>
 <br>
 RUN LENGHT ENCODING (RLE)
+<br>
+<p>A arquitetura RESUNET</p>
+<p>Em uma descrição muito resumida, é uma arquitetura de RNC para fazer a SEGMENTAÇÃO de imagens, classificando pixel a pixel para seperar dentro de uma imagem os pixels defeituosos:</p>
+<p>Esta arquitetura combina uma outra arquitetura chamada UNet com blocos residuais (skip connection) para reduzir o problema do gradiente desaparecendo (vanish gradiente problem)</p>
+<p>Consiste em 3 partes:</p>
+
 
 
 
