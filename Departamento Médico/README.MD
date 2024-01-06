@@ -9,4 +9,19 @@
 <p>Com isso a IA a ser construida vai receber como parametro imagens de Raio-x e vai  diagnosticar s esse Raio-X apresenta uma doença ou não.</p>
 <ul>
 <li>A IA tem revolucionado a área da medicicina e da saúde</li>
+<ul>
+<li>Imagens médicas</li>
+<li>Novos medicamentos</li>
+<li>Pesquisas relacionadas ao genoma</li>
 </ul>
+<li>DL tem provado ser superior na detecção e classificação de doenças usando imagens médicas </li>
+<li>Cancer de pele pode ser detectado com maior precisão por modelos de DL do que por dermatoligistas experientes</li>
+<ul>
+<li></li>
+<li></li>
+</ul>
+</ul>
+<ul>
+
+</ul>
+<p>Caso se faça uma pesquisa, vamos encontrar muitas aplicações de IA nessa area da saúde</p>
