@@ -17,6 +17,13 @@
 <li>DL tem provado ser superior na detecção e classificação de doenças usando imagens médicas </li>
 <li>Cancer de pele pode ser detectado com maior precisão por modelos de DL do que por dermatoligistas experientes</li>
 <ul>
+<li>Dermatologistas - 86.6%</li>
+<li>Deep Learning - 95%</li>
+</ul>
+<li>Para esse estudo de caso, os profissionais coletaram 133 imagens de Raio-X com imagens que pertencem a 4 classes:</li>
+<ul>
+<li></li>
+<li></li>
 <li></li>
 <li></li>
 </ul>
