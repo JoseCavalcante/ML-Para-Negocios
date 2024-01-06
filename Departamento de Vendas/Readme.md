@@ -3,7 +3,7 @@
 <p>Vamos trabalhar com uma Base de Dados com informações sobre a quantidade de vendas e a quantidade de pessoas.</p>
 <p>Utlizando dados do passado, o objetivo será fazer previsões de vendas futuras</p>
 <p>Essa é a idéia de se trabalhar com <b>séries temporais</b></p>
-<p>O diferencial deste estudo é que ele será feito utilizando uma ferramenta do Facebook, o Facebook Prophet, cuja idéia e fazermos previsões de vendas ou previsões de qualquer outro tipo de valor numérico.</p>
+<p>O diferencial deste estudo é que ele será feito utilizando uma ferramenta do Facebook, o <b>Facebook Prophet</b>, cuja idéia e fazermos previsões de vendas ou previsões de qualquer outro tipo de valor numérico.</p>
 <p>Outro diferencial, é que esta ferramenta considera todos os feriados do ano (Pascoa, Natal, BlackFriday etc)(.</p>
 <p>As empresas podemm se tornar mais competitivas elas devem fazer uso dessa ferramenta de IA/ML. Podendo, assim, prever seus estoques para poder atender as demandas.</p>
 <p>Modelos de previsão de vendas futuras baseados em dados do passado devem considerar EFEITOS SAZONAIS.</p>
