@@ -22,13 +22,10 @@
 </ul>
 <li>Para esse estudo de caso, os profissionais coletaram 133 imagens de Raio-X com imagens que pertencem a 4 classes:</li>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Healthy (Saudável)</li>
+<li>Covid-19</li>
+<li>Bacterial Pneumonia</li>
+<li>Viral Pneumonia</li>
 </ul>
 </ul>
-<ul>
-
-</ul>
-<p>Caso se faça uma pesquisa, vamos encontrar muitas aplicações de IA nessa area da saúde</p>
+<p>O objetivo aqui é treinar uma Rede Neural Convolucional que é o tipo de rede mais eficais para se trabalhar com classificação de imagens.</p>
